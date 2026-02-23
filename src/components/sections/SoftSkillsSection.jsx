@@ -33,7 +33,7 @@ const SoftSkillsSection = () => {
                             </div>
                             <div className='p-4 bg-purple-50 rounded-xl border-l-4 border-purple-500 hover:animate-pulse'>
                                 <span className='block font-bold text-gray-800'>Idiomas</span>
-                                <span className='text-sm text-gray-500'>Español / Inglés C1</span>
+                                <span className='text-sm text-gray-500'>Español / Catalán C1 / Inglés B2</span>
                             </div>
                         </div>
                     </div>

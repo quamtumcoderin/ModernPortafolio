@@ -1,7 +1,7 @@
 import { Github, Linkedin, Mail } from 'lucide-react'
 
 export const navLinks = [
-    { name: 'inicio', href: '#hero' },
+    { name: 'Inicio', href: '#hero' },
     { name: 'DAFO', href: '#dafo' },
     { name: 'Skills', href: '#skills' },
     { name: 'Actividades', href: '#actividades' },

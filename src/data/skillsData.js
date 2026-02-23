@@ -2,9 +2,9 @@ export const softSkillsData = [
     { subject: 'Pensamiento Crítico', value: 90, fullMark: 100 },
     { subject: 'Comunicación Técnica', value: 85, fullMark: 100 },
     { subject: 'Trabajo en Equipo', value: 80, fullMark: 100 },
-    { subject: 'Gestión de Tiempo', value: 75, fullMark: 100 },
-    { subject: 'Adaptabilidad', value: 95, fullMark: 100 },
-    { subject: 'Resolución Problemas', value: 100, fullMark: 100 },
+    { subject: 'Gestión de Tiempo', value: 70, fullMark: 100 },
+    { subject: 'Adaptabilidad', value: 100, fullMark: 100 },
+    { subject: 'Resolución Problemas', value: 90, fullMark: 100 },
 ]
 
 export const skillsDescription = {

@@ -4,13 +4,15 @@ export const dafoData = {
         { id: 2, title: 'Adaptabilidad', desc: 'Aprendizaje rápido de nuevos stacks y paradigmas.' }
     ],
     weaknesses: [
-        { id: 1, title: 'Perfeccionismo', desc: 'A veces optimizo prematuramente (trabajando en ello).'}
+        { id: 1, title: 'Perfeccionismo', desc: 'A veces optimizo prematuramente (trabajando en ello).'},
+        { id: 2, title: 'Procrastinación', desc: 'Suelo procrastinar cuando tengo tareas que no me motivan.' }
     ],
     oppotunities: [
-        { id: 1, title: 'IA Generativa', desc: 'Integración de LLMs en flujos de trabajo tradicionales.' }
+        { id: 1, title: 'IA Generativa', desc: 'Integración de LLMs en flujos de trabajo tradicionales.' },
+        { id: 2, title: 'Programa para Estudiantes', desc: 'Herramientas y tecnologías gratuitas para estudiantes.' }
     ],
     threats: [
-        { id: 1, title: 'Obsolescencia rápida', desc: 'Necesidad constante de actualizar tecnológica.' }
+        { id: 1, title: 'Obsolescencia rápida', desc: 'Necesidad constante de actualización tecnológica.' }
     ]
 }
 
