@@ -16,12 +16,12 @@ const ActivitiesSection = () => {
                     <div>
                         <h2 className='text-4xl font-bold text-gray-900 mb-4'>Actividades y Salidas</h2>
                         <p className='text-gray-600 max-w-xl'>
-                            El equilibrio entre el mundo digital y el físico. Proyectos, hackathons y escapadas.
+                            El equilibrio entre el mundo digital y el físico.
                         </p>
                     </div>
 
                     <div className='flex gap-2 mt-4 md:mt-0 bg-white p-1 rounded-full shadow-sm border border-gray-100'>
-                        {['all', 'tech', 'life'].map((cat) => (
+                        {['all', 'tech', 'life', 'gaming'].map((cat) => (
                             <button
                                 key={cat}
                                 onClick={() => setFilter(cat)}

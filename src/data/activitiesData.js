@@ -24,6 +24,15 @@ export const activitiesData = [
         date: 'Oct 2025',
         cover: '/images/pacha-cover.png',
         images: ['/images/pacha-1.png', '/images/pacha-2.png'],
-        desc: 'Conferencia de German Pacha por parte de Linux. Nos dió a conocer todas las ventajas de aprender Linux'
+        desc: 'Conferencia de German Pacha por parte de Linux LPI. Nos dió a conocer todas las ventajas de aprender Linux'
+    },
+    {
+        id: 4,
+        title: 'Salida al Salón del Gaming SAGA',
+        category: 'gaming',
+        date: 'Nov 2025',
+        cover: '/images/saga-cover.png',
+        images: ['/images/saga-1.png', '/images/saga-2.png'],
+        desc: 'Salida al salón del Gaming SAGA. Hemos vuelto al pasado para disfrutar de juegos míticos como el Street Fighter o el Mortal Kombat.'
     }
 ]

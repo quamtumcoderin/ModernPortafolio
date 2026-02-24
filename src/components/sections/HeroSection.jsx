@@ -1,7 +1,8 @@
 const HeroSection = () => {
     return (
         <section id='hero' className='min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-50 to-blue-50 pt-20'>
-            <div className='text-center px-4 animate-float'>
+            <div className='flex flex-col items-center px-4 animate-float'>
+                <img className="rounded-full md:w-86 w-64 transition-all duration-300" src="/images/profile.png" alt="Yo Mismo (Aún no)" />
                 <h1 className='text-5xl md:text-7xl font-bold text-gray-900 mb-6'>
                     Hola, soy <span className='text-blue-600'>Elder Estrada</span>
                 </h1>
