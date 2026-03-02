@@ -9,7 +9,7 @@ const HeroSection = () => {
                 <p className='text-xl text-gray-600 max-w-2xl mx-auto mb-8'>
                     No solo desarrollo webs. Construyo soluciones modulares, escalables y optimizadas.
                 </p>
-                <div className='flex gap-4 justify-center'>
+                <div className='flex sm:flex-row flex-col gap-4 justify-center'>
                     <a href="#dafo" className='px-8 py-3 bg-blue-600 text-white rounded-full font-bold shadow-lg hover:shadow-blue-500/50'>
                         Ver Análisis
                     </a>
