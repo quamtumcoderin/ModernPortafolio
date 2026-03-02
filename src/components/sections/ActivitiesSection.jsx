@@ -21,7 +21,7 @@ const ActivitiesSection = () => {
                     </div>
 
                     <div className='flex gap-2 mt-4 md:mt-0 bg-white p-1 rounded-full shadow-sm border border-gray-100'>
-                        {['all', 'tech', 'life', 'gaming'].map((cat) => (
+                        {['all', 'tech', 'life'].map((cat) => (
                             <button
                                 key={cat}
                                 onClick={() => setFilter(cat)}

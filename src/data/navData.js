@@ -2,6 +2,9 @@ import { Github, Linkedin, Mail } from 'lucide-react'
 
 export const navLinks = [
     { name: 'Inicio', href: '#hero' },
+    { name: 'Trayectoria', href: '#trayectoria' },
+    { name: 'Conocimientos', href: '#conocimientos' },
+    { name: 'Certificados', href: '#certificados' },
     { name: 'DAFO', href: '#dafo' },
     { name: 'Skills', href: '#skills' },
     { name: 'Actividades', href: '#actividades' },

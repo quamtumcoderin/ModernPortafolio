@@ -36,9 +36,6 @@ const Navbar = () => {
                             <span className='absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-600 transition-all group-hover:w-full'></span>
                         </a>
                     ))}
-                    <button className='px-5 py-2 bg-gray-900 text-white rounded-full font-medium hover:bg-blue-600 transition-all hover:-translate-y-1 hover:shadow-lg active:scale-95'>
-                        Contactar
-                    </button>
                 </div>
 
                 <button

@@ -3,6 +3,9 @@ import Navbar from './components/layout/Navbar'
 import Footer from './components/layout/Footer'
 
 import HeroSection from './components/sections/HeroSection'
+import ResumeSection from './components/sections/ResumeSection'
+import KnowledgeSection from './components/sections/KnowledgeSection'
+import CertificatesSection from './components/sections/CertificatesSection'
 import DafoSection from './components/sections/DafoSection'
 import ActivitiesSection from './components/sections/ActivitiesSection'
 import SoftSkillsSection from './components/sections/SoftSkillsSection'
@@ -15,6 +18,12 @@ function App() {
 
             <main>
                 <HeroSection />
+
+                <ResumeSection />
+
+                <KnowledgeSection />
+
+                <CertificatesSection />
 
                 <DafoSection />
 

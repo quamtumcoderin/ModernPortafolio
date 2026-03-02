@@ -16,6 +16,9 @@ const HeroSection = () => {
                     <a href="#actividades" className='px-8 py-3 bg-white text-gray-900 rounded-full font-bold border border-gray-200  hover:border-blue-200 transition-all hover:-translate-y-1'>
                         Ver Proyectos
                     </a>
+                    <a href="/elder_estrada_cv.pdf" target="_blank" className="px-8 py-3 bg-blue-600 text-white rounded-full font-bold shadow-lg hover:shadow-blue-500/50">
+                        Ver Currículum
+                    </a>
                 </div>
             </div>
         </section>
