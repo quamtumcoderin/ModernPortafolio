@@ -4,7 +4,7 @@ export const experienceData = [
     {
         id: 1,
         title: 'Atención al Cliente',
-        entity: 'Seidor Solutons S.L.',
+        entity: 'Seidor Solutions S.L.',
         date: '2025 - Presente',
         description: 'Gestión de llamdas, incidencias, peticiones y consultas de los clientes.'
     }
@@ -21,7 +21,7 @@ export const educationData = [
     {
         id: 2,
         title: 'Educación Secundaria Obligatoria',
-        entity: 'Institut Joan D\'Austria',
+        entity: 'Institut Joan d\'Austria',
         date: '2021 - 2024',
         description: 'Conocimientos básicos sobre el paquete de Office y edición de imágenes.'
     },
