@@ -26,7 +26,7 @@ const GalleryModal = ({ activity, onClose }) => {
                             alt={activity.title}
                             className='w-full h-full object-cover'
                         />
-                        <div className='absolute bottom-0 left-0 p-6 bg-gradient-to-t from-black/90 to-transparent w-full'>
+                        <div className='absolute bottom-0 left-0 p-6 bg-linear-to-t from-black/90 to-transparent w-full'>
                             <h2 className='text-3xl font-bold text-white'>{activity.title}</h2>
                             <p className='text-gray-300'>{activity.date}</p>
                         </div>

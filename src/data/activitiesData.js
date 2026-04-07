@@ -33,5 +33,23 @@ export const activitiesData = [
         cover: '/images/saga-cover.png',
         images: ['/images/saga-1.png', '/images/saga-2.png'],
         desc: 'Salida al salón del Gaming SAGA. Hemos vuelto al pasado para disfrutar de juegos míticos como el Street Fighter o el Mortal Kombat.'
+    },
+    {
+        id: 5,
+        title: 'Saló de l\'Ensenyament',
+        category: 'life',
+        date: 'Mar 2026',
+        cover: '/images/ensenyament-cover.png',
+        images: [],
+        desc: 'He ido al Saló de \'esenyament como expositor de Monlau. He explicado como es la experiencia del día al día en Monlau.'
+    },
+    {
+        id: 6,
+        title: 'Excursión a Barcelona Activa',
+        category: 'life',
+        date: 'Mar 2026',
+        cover: '/images/bcn-activa-cover.png',
+        images: [],
+        desc: 'Hoy toda la clase hemos ido de excursión a Barcelona Activa. Hemo realizado una actividad en grupos que pondrá a prueba nuestras capacidades para resolver problemas en equipo.'
     }
 ]
